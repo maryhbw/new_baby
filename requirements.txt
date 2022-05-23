@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+#friends
+git+ssh://git@github.com/snowingg/whatever
